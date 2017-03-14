@@ -9,6 +9,15 @@
 ```
 gradlew clean assembleReleaseChannels
 ```
+
+开始打包
+![多渠道包打包开始](https://github.com/ouyangpeng/Test_MultiChannel_BigData/blob/master/pictures/m3.png)
+
+打包完成，打包44个渠道包总共耗时18.543 secs，速度飞快
+
+![多渠道包打包结束](https://github.com/ouyangpeng/Test_MultiChannel_BigData/blob/master/pictures/m4.png)
+
+
 生成完后，生成的多渠道包如下所示：
 ![多渠道包打包结果](https://github.com/ouyangpeng/Test_MultiChannel_BigData/blob/master/pictures/m1.png)
 
