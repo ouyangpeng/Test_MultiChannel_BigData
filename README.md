@@ -1,8 +1,12 @@
 # Test_MultiChannel_BigData
 使用美团方案的Android Signature V2 Scheme签名下的新一代渠道包打包神器  配合友盟动态设置渠道名
 
->关于美团方案的Android Signature V2 Scheme签名下的新一代渠道包打包神器，可以参考： https://github.com/Meituan-Dianping/walle
->关于友盟统计动态设置渠道名可以参考链接：http://dev.umeng.com/analytics/android-doc/integration#2 
+>关于美团方案的[Android Signature V2 Scheme签名下的新一代渠道包打包神器](https://github.com/Meituan-Dianping/walle)，可以参考： https://github.com/Meituan-Dianping/walle
+
+>关于美团方案的原理，可以移步[美团Android新一代渠道包生成工具](http://tech.meituan.com/android-apk-v2-signature-scheme.html)进行了解：http://tech.meituan.com/android-apk-v2-signature-scheme.html
+
+>关于[友盟统计动态设置渠道名](http://dev.umeng.com/analytics/android-doc/integration#2 )可以参考链接：http://dev.umeng.com/analytics/android-doc/integration#2 
+
 
 
 使用脚本来运行多渠道打包
