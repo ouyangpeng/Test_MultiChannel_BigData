@@ -9,6 +9,53 @@
 
 
 
+官方文档
+
+    官方关于v2签名的详细介绍：
+
+    https://source.android.com/security/apksigning/v2.html
+
+    官方关于gradle禁用v2签名的方法：
+
+    https://developer.android.google.cn/about/versions/nougat/android-7.0.html
+
+    官方APK再签名或者校验签名工具apksigner介绍：
+
+    https://developer.android.com/studio/command-line/apksigner.html
+
+    官方APK再签名或者校验签名工具apksigner源码：
+
+    https://android.googlesource.com/platform/tools/apksig
+
+个人博客
+
+    一款基于Java环境的V2签名校验工具的介绍
+
+    http://blog.bihe0832.com/android-v2-signature.html
+
+    获取Android应用基本信息的工具集源码
+
+    https://github.com/bihe0832/AndroidGetAPKInfo
+
+    一个关于APK Signature Scheme v2签名的神奇bug定位经历
+
+    http://blog.bihe0832.com/android-v2-issue.html
+
+    Android签名校验机制（数字证书）
+
+    http://blog.bihe0832.com/android_signature.html
+
+第三方内容
+
+    新一代开源Android渠道包生成工具Walle
+
+    http://tech.meituan.com/android-apk-v2-signature-scheme.html
+
+
+
+
+
+
 使用脚本来运行多渠道打包
 ```
 gradlew clean assembleReleaseChannels
